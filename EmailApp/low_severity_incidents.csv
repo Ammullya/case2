@@ -1,0 +1,22 @@
+Server,Incident,Description,Time
+B,Database Corruption,Database table corruption detected on Server B,2023-08-03 08:55:11
+B,Authentication Failure,Unable to log in to the application on Server B,2023-08-06 12:05:15
+B,Storage Capacity,Disk space running low on Server B,2023-08-08 09:27:37
+B,Hardware Failure,Server B experienced a hardware failure,2023-08-11 18:20:48
+B,Software Crash,Application on Server B crashed unexpectedly,2023-08-13 14:48:55
+B,Database Performance,Slow database queries on Server B,2023-08-15 15:10:05
+B,Permission Misconfiguration,Users unable to access specific files on Server B,2023-08-17 17:45:38
+B,Network Hardware Issue,Faulty network switch affecting Server B connectivity,2023-08-19 11:30:15
+B,User Account Issue,User unable to log in due to account lockout on Server B,2023-08-21 14:33:09
+B,Security Patch,Applying security patches to mitigate vulnerabilities on Server B,2023-08-25 16:05:38
+B,Application Configuration,Misconfiguration in the application settings on Server B,2023-08-27 14:52:40
+B,User Access,User access permissions not being applied correctly on Server B,2023-08-29 12:15:17
+B,Service Performance,Service on Server B experiencing slowness,2023-08-31 09:40:45
+B,Software Licensing,Expired software license causing application shutdown on Server B,2023-09-02 10:02:38
+B,Hardware Upgrade,Upgrading RAM on Server B for better performance,2023-09-04 08:15:52
+B,Security Audit,Conducting a security audit to identify vulnerabilities on Server B,2023-09-06 12:40:30
+B,Service Patching,Applying patches to fix service-specific bugs on Server B,2023-09-08 09:33:45
+B,Application Rollback,Rolling back application update due to issues on Server B,2023-09-10 11:50:55
+B,Backup Storage,Issues with storing backups due to limited storage on Server B,2023-09-12 09:28:33
+B,Email Spam Filter,Configuring spam filters to reduce email spam on Server B,2023-09-14 10:05:19
+B,User Permissions,Adjusting user permissions based on role changes on Server B,2023-09-16 09:22:45

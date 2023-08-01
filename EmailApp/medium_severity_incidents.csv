@@ -1,0 +1,10 @@
+B,Application Crash,The application on Server B crashed unexpectedly,2023-08-01 11:45:22
+A,Application Behavior,Users experiencing intermittent timeouts on Server A,2023-08-05 10:18:30
+A,Service Unavailability,One of the critical services not responding on Server A,2023-08-10 17:35:22
+A,Service Restart,A critical service on Server A required a restart,2023-08-16 08:12:22
+B,Software Conflict,Conflict between two applications causing instability on Server B,2023-08-23 15:27:55
+A,Email Attachment Issue,Unable to send or receive emails with attachments on Server A,2023-09-01 16:20:55
+A,Backup Verification,Data backup verification process failed on Server A,2023-09-03 14:48:23
+A,Database Replication,Replication issues detected in the database cluster on Server A,2023-09-07 15:55:18
+A,User Training,Conducting user training on a newly implemented system on Server A,2023-09-11 14:20:10
+A,Application Integration,Integrating third-party application with Server A,2023-09-15 11:55:28
